@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# PlatformIO / editor build output
+.pio/
+.vscode/
+
+# Runtime data: sensor logs and saved calibration (created by the app)
+aura-app/data/
+
+# Other / scratch projects that live in the same working folder
+healthiva-firmware/
+buzztest/
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store
